@@ -15,12 +15,16 @@ function App() {
         autoPlay={true}
         muted={true}
       />
+
+      
+
       <div className="mainInput">
+      <h1>WELCOME TO OUR WORLD</h1>
         <input
           className="input"
           type="text"
           name="name"
-          placeholder="Where to?"
+          placeholder="Where to go?"
         />
       </div>
     </div>
